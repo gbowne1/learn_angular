@@ -1,2 +1,2 @@
 # learn_angular
-This repository is me learning Angular
+This repository is all about me learning Angular
